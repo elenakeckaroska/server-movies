@@ -6,28 +6,28 @@
     "title": "The Shawshank Redemption",
     "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
     "director": "Frank Darabont",
-    "actress": ["Tim Robbins", "Morgan Freeman"]
+    "actress": "Tim Robbins, Morgan Freeman"
   },
   {
     "id": 2,
     "title": "The Godfather",
     "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
     "director": "Francis Ford Coppola",
-    "actress": ["Marlon Brando", "Al Pacino"]
+    "actress": "Marlon Brando, Al Pacino"
   },
   {
     "id": 3,
     "title": "Pulp Fiction",
     "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
     "director": "Quentin Tarantino",
-    "actress": ["John Travolta", "Uma Thurman"]
+    "actress": "John Travolta, Uma Thurman"
   },
   {
     "id": 7,
     "title": "Shrek",
     "description": "An ogre, in order to regain his swamp, travels along with an annoying donkey in order to bring a princess to a scheming lord, wishing himself King.",
     "director": "Andrew Adamson, Vicky Jenson",
-    "actress": ["Mike Myers", "Eddie Murphy"]
+    "actress": "Mike Myers, Eddie Murphy"
   }
 ]
 }
