@@ -1,33 +1,74 @@
 {
-    "movies":
-  [
-  {
-    "id": 1,
-    "title": "The Shawshank Redemption",
-    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-    "director": "Frank Darabont",
-    "actress": "Tim Robbins, Morgan Freeman"
-  },
-  {
-    "id": 2,
-    "title": "The Godfather",
-    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
-    "director": "Francis Ford Coppola",
-    "actress": "Marlon Brando, Al Pacino"
-  },
-  {
-    "id": 3,
-    "title": "Pulp Fiction",
-    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-    "director": "Quentin Tarantino",
-    "actress": "John Travolta, Uma Thurman"
-  },
-  {
-    "id": 7,
-    "title": "Shrek",
-    "description": "An ogre, in order to regain his swamp, travels along with an annoying donkey in order to bring a princess to a scheming lord, wishing himself King.",
-    "director": "Andrew Adamson, Vicky Jenson",
-    "actress": "Mike Myers, Eddie Murphy"
-  }
-]
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "director": "Frank Darabont",
+      "actress": "Tim Robbins, Morgan Freeman"
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "director": "Francis Ford Coppola",
+      "actress": "Marlon Brando, Al Pacino"
+    },
+    {
+      "id": 3,
+      "title": "Pulp Fiction",
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "director": "Quentin Tarantino",
+      "actress": "John Travolta, Uma Thurman"
+    },
+    {
+      "id": 7,
+      "title": "Shrek",
+      "description": "An ogre, in order to regain his swamp, travels along with an annoying donkey in order to bring a princess to a scheming lord, wishing himself King.",
+      "director": "Andrew Adamson, Vicky Jenson",
+      "actress": "Mike Myers, Eddie Murphy"
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "director": "Christopher Nolan",
+      "actress": "Christian Bale, Heath Ledger"
+    },
+    {
+      "id": 5,
+      "title": "Schindler's List",
+      "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "director": "Steven Spielberg",
+      "actress": "Liam Neeson, Ben Kingsley"
+    },
+    {
+      "id": 6,
+      "title": "Forrest Gump",
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+      "director": "Robert Zemeckis",
+      "actress": "Tom Hanks, Robin Wright"
+    },
+    {
+      "id": 8,
+      "title": "Inception",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "director": "Christopher Nolan",
+      "actress": "Leonardo DiCaprio, Joseph Gordon-Levitt"
+    },
+    {
+      "id": 9,
+      "title": "The Matrix",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "actress": "Keanu Reeves, Laurence Fishburne"
+    },
+    {
+      "id": 10,
+      "title": "Titanic",
+      "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "director": "James Cameron",
+      "actress": "Leonardo DiCaprio, Kate Winslet"
+    }
+  ]
 }
